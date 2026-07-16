@@ -1,67 +1,51 @@
-# Task 1: Movie Genre Classification
+# CODSOFT - Machine Learning Internship
 
-## 📌 Project Overview
+This repository contains the Machine Learning projects completed as part of my internship at **CodSoft**.
 
-The objective of this project is to build a Machine Learning model that can predict the genre of a movie based on its plot summary. The project uses Natural Language Processing (NLP) techniques to preprocess text data and convert it into numerical features for training a classification model.
+## Internship Tasks
 
-## 🎯 Objective
+### ✅ Task 1: Movie Genre Classification
+- Built a machine learning model to predict the genre of a movie based on its plot summary.
+- Used TF-IDF Vectorization and Logistic Regression for text classification.
 
-To develop a supervised machine learning model that accurately classifies movie genres from textual descriptions.
+### ✅ Task 2: Credit Card Fraud Detection
+- Developed a machine learning model to identify fraudulent credit card transactions.
+- Performed data preprocessing, feature selection, model training, and evaluation using Logistic Regression.
 
-## 📂 Dataset
+### 🚀 Task 3: Customer Churn Prediction *(In Progress)*
+- Developing a machine learning model to predict whether a customer is likely to leave a subscription-based service.
+- The project will include data preprocessing, feature engineering, model training, and performance evaluation.
 
-The dataset consists of movie plot summaries along with their corresponding genres. It is used to train and evaluate the classification model.
+## Technologies Used
 
-## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Natural Language Processing (NLP)
+- TF-IDF Vectorization
+- Logistic Regression
+- Joblib
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Jupyter Notebook
+## Repository Structure
 
-## 🔍 Machine Learning Workflow
-
-1. Import the required libraries.
-2. Load the movie dataset.
-3. Preprocess the text data.
-4. Convert text into numerical features using TF-IDF Vectorization.
-5. Split the dataset into training and testing sets.
-6. Train the machine learning model.
-7. Evaluate the model using appropriate performance metrics.
-8. Predict the genre of new movie plot summaries.
-
-## 📊 Model Used
-
-* TF-IDF Vectorizer
-* Logistic Regression
-
-> **Note:** You can replace **Logistic Regression** with the classifier you actually use (such as Naive Bayes or Support Vector Machine).
-
-## 📈 Results
-
-The trained model successfully predicts movie genres based on plot summaries. The model's performance is evaluated using standard classification metrics such as Accuracy, Precision, Recall, and F1-Score.
-
-## 📁 Project Structure
-
-```text
-Task1_Movie_Genre_Classification/
-│── Movie_Genre_Classification.ipynb
-│── train_data.txt
-│── test_data.txt
-│── test_data_solution.txt
-│── README.md
+```
+CODSOFT/
+│
+├── Task1_Movie_Genre_Classification/
+├── Task2_Credit_Card_Fraud_Detection/
+└── Task3_Customer_Churn_Prediction/
 ```
 
-## 🚀 How to Run
+## Author
 
-1. Clone this repository.
-2. Install the required Python libraries.
-3. Open the Jupyter Notebook.
-4. Run all the cells in sequence.
-5. Test the model using new movie plot descriptions.
+**Reny Evangelin**
 
-## 🙏 Acknowledgement
+B.Tech Artificial Intelligence & Data Science
 
-This project was completed as part of the **CodSoft Machine Learning Internship** to gain practical experience in Machine Learning and Natural Language Processing.
+Sri Krishna College of Engineering and Technology
+
+## Acknowledgement
+
+This repository is created as part of the **CodSoft Machine Learning Internship**.
