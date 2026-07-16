@@ -1,1 +1,14 @@
+TASK 1 - MOVIE GENRE CLASSIFICATION
+      pandas
+      numpy
+      matplotlib
+      scikit-learn
+      nltk
+      joblib
 
+TASK 2 - CREDIT CARD FRAUD DETECTION
+      pandas
+      numpy
+      matplotlib
+      scikit-learn
+      joblib
