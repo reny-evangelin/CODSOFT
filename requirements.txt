@@ -12,3 +12,10 @@ TASK 2 - CREDIT CARD FRAUD DETECTION
       matplotlib
       scikit-learn
       joblib
+
+TASK 3 - CUSTOMER CHURN PREDICTION
+      pandas
+      numpy
+      matplotlib
+      scikit-learn
+      joblib
